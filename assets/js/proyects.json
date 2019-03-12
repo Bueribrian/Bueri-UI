@@ -1,0 +1,59 @@
+[
+    {
+        "title":"Template HTML",
+        "desc":"Template hecho desde cero con puro html y css.",
+        "link":"https://coffestore.netlify.com/",
+        "img":"./assets/images/coffe.jpg",
+        "tag":"html"
+    },
+    {
+        "title":"Teclea rapido!",
+        "desc":"Aplicacion para observar la velocidad con la que tecleas.",
+        "link":"https://type-fast.netlify.com",
+        "img":"./assets/images/shouty.png",
+        "tag":"js"
+    },
+    {
+        "title":"Template HTML 2",
+        "desc":"Template hecho desde cero con puro html y css.",
+        "link":"https://rektweb.netlify.com",
+        "img":"./assets/images/rekt.png",
+        "tag":"html"
+    },
+    {
+        "title":"Primero aplicacion con React",
+        "desc":"Esta es mi primero aplicacion con react",
+        "link":"https://buerireact1.herokuapp.com",
+        "img":"./assets/images/first-react-app.png",
+        "tag":"react"
+    },
+    {
+        "title":"Portfolio de fotografia",
+        "desc":"Portfolio de fotografia con login y registro, para subida de imagenes de forma dinamica <p class='text-muter'> Heroku no permite subida de imagenes por mas de 24 horas.</p>",
+        "link":"https://portfolio-nadia.herokuapp.com/",
+        "img":"./assets/images/shouty.png",
+        "tag":"node"
+    },
+    {
+        "title":"Red social",
+        "desc":"pequeña red social hecha con Node.js - express, con mongodb y handlebars.<p class='text-muter'> Heroku no permite subida de imagenes por mas de 24 horas.</p>",
+        "link":"https://shoutyfast-v01.herokuapp.com/",
+        "img":"./assets/images/shouty.png",
+        "tag":"node"
+    },
+    {
+        "title":"Rick And Morty App",
+        "desc":"Pequeña aplicacion de practica hecha con React.js que hace llamados a la API de Rick and Morty",
+        "link":"https://rick-morty.netlify.com",
+        "img":"./assets/images/ram.png",
+        "tag":"react"
+    },
+    {
+        "title":"React chat app",
+        "desc":"Chat con chatkit y react.",
+        "link":"https://react-chat-bbp1.netlify.com/",
+        "img":"./assets/images/react-chat.png",
+        "tag":"react"
+    }
+
+]

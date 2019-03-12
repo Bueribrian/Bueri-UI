@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="148" height="148" viewBox="0 0 148 148">
+  <defs>
+    <filter id="Elipse_3" x="0" y="0" width="148" height="148" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_5" data-name="Grupo 5" transform="translate(-1702 -2101)">
+    <g transform="matrix(1, 0, 0, 1, 1702, 2101)" filter="url(#Elipse_3)">
+      <circle id="Elipse_3-2" data-name="Elipse 3" cx="53" cy="53" r="53" transform="translate(19 18)" fill="#fff"/>
+    </g>
+    <path id="Trazado_14" data-name="Trazado 14" d="M0,0H33.6V33.6L16.8,16.8Z" transform="translate(1749.963 2179.5) rotate(-45)" fill="#410b9e" stroke="#410b9e" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+  </g>
+</svg>

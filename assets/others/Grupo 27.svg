@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="580.151" height="532.405" viewBox="0 0 580.151 532.405">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.768" y1="0.051" x2="-0.251" y2="0.672" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#191818" stop-opacity="0.251"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.768" y1="0.051" x2="-0.251" y2="0.672" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#191818" stop-opacity="0.322"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1.268" y1="0.761" x2="0.08" y2="0.429" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#410b9e"/>
+      <stop offset="1" stop-color="#21064f"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_27" data-name="Grupo 27" transform="translate(-259.915 -2989.849)">
+    <path id="Rectángulo_23" data-name="Rectángulo 23" d="M0,0H141.026a0,0,0,0,1,0,0V77.258a0,0,0,0,1,0,0H24a24,24,0,0,1-24-24V0A0,0,0,0,1,0,0Z" transform="matrix(0.545, -0.839, 0.839, 0.545, 286.184, 3125.214)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_24" data-name="Rectángulo 24" width="141.026" height="77.258" transform="matrix(0.545, -0.839, 0.839, 0.545, 493.431, 3233.13)" fill="url(#linear-gradient-2)"/>
+    <ellipse id="Elipse_5" data-name="Elipse 5" cx="54.502" cy="26.125" rx="54.502" ry="26.125" transform="translate(259.915 3109.663)" fill="#4300ff"/>
+    <line id="Línea_4" data-name="Línea 4" y2="119.814" transform="translate(260.366 3016.425)" fill="none"/>
+    <path id="Trazado_15" data-name="Trazado 15" d="M202.644,2982.435l109,2.741v-35.509l-109,.306Z" transform="translate(57.271 151.588)" fill="#4300ff"/>
+    <line id="Línea_13" data-name="Línea 13" x1="192.531" y2="93.2" transform="translate(286.385 2999.231)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4" stroke-dasharray="10"/>
+    <path id="Trazado_16" data-name="Trazado 16" d="M202.644,2982.4l109,2.74v-35.51l-109-.318Z" transform="translate(57.271 120.093)" fill="#4300ff"/>
+    <path id="Trazado_17" data-name="Trazado 17" d="M202.644,2982.435l109,2.741v-35.509h-109Z" transform="translate(57.271 91.231)" fill="#4300ff"/>
+    <path id="Trazado_18" data-name="Trazado 18" d="M202.644,2982.435l109,2.741v-35.509h-109Z" transform="translate(57.271 66.908)" fill="#4300ff"/>
+    <ellipse id="Elipse_8" data-name="Elipse 8" cx="17.116" cy="19.819" rx="17.116" ry="19.819" transform="matrix(0.921, 0.391, -0.391, 0.921, 332.933, 3101.446)" fill="url(#linear-gradient-3)"/>
+    <line id="Línea_3" data-name="Línea 3" x2="181.176" y2="117.368" transform="translate(336.938 3126.329)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4" stroke-dasharray="10"/>
+    <line id="Línea_9" data-name="Línea 9" x1="213.379" y2="116.5" transform="translate(478.916 3136.579)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4" stroke-dasharray="10"/>
+    <line id="Línea_12" data-name="Línea 12" x1="213.379" y2="116.5" transform="translate(478.916 3136.579)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4" stroke-dasharray="10"/>
+    <line id="Línea_10" data-name="Línea 10" x1="213.379" y1="136.121" transform="translate(478.916 2999.231)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4" stroke-dasharray="10"/>
+    <line id="Línea_11" data-name="Línea 11" x1="213.379" y1="136.121" transform="translate(478.916 2999.231)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="4" stroke-dasharray="10"/>
+    <g id="Grupo_26" data-name="Grupo 26" transform="translate(437.498 3132.466) rotate(1)">
+      <path id="Trazado_1" data-name="Trazado 1" d="M19.606,19.606,90.443,0,70.665,70.665,0,90.443Z" transform="translate(63.953) rotate(45)" fill="#8000ff"/>
+      <path id="Trazado_2" data-name="Trazado 2" d="M19.606,19.606,90.443,0,70.665,70.665,0,90.443Z" transform="translate(63.953 72.28) rotate(45)" fill="#8000ff"/>
+      <path id="Trazado_7" data-name="Trazado 7" d="M7.652,7.652,35.3,0,27.58,27.58,0,35.3Z" transform="translate(63.826 84.545) rotate(45)" fill="#8000ff"/>
+      <path id="Trazado_3" data-name="Trazado 3" d="M0,0,63.716,35.658V108.18L0,72.217Z" transform="translate(0 63.953)" fill="#a346ff"/>
+      <path id="Trazado_4" data-name="Trazado 4" d="M64.19,0,0,35.711V108.34L64.19,72.324Z" transform="translate(63.716 63.793)" fill="#8b25f1"/>
+      <g id="Grupo_1" data-name="Grupo 1" transform="translate(38.866 60.81)">
+        <path id="Trazado_5" data-name="Trazado 5" d="M7.652,7.652,35.3,0,27.58,27.58,0,35.3Z" transform="translate(24.96) rotate(45)" fill="#8000ff"/>
+        <path id="Trazado_8" data-name="Trazado 8" d="M25.042,0,.04,13.936,0,42.286,25.042,28.228Z" transform="translate(24.879 24.898)" fill="#8b25f1"/>
+        <ellipse id="Elipse_4" data-name="Elipse 4" cx="17.116" cy="19.819" rx="17.116" ry="19.819" transform="translate(49.196 32.767) rotate(22)" fill="url(#linear-gradient-3)"/>
+        <path id="Trazado_6" data-name="Trazado 6" d="M0,0,24.923,13.944l.017,28.4L0,28.269Z" transform="translate(0 24.898)" fill="#a346ff"/>
+        <ellipse id="Elipse_7" data-name="Elipse 7" cx="17.116" cy="19.819" rx="17.116" ry="19.819" transform="translate(49.196 32.767) rotate(22)" fill="url(#linear-gradient-3)"/>
+        <line id="Línea_2" data-name="Línea 2" x2="119.814" y2="72.068" transform="translate(49.984 52.599)" fill="none" stroke="#4300ff" stroke-linecap="round" stroke-width="4" stroke-dasharray="10"/>
+      </g>
+    </g>
+    <g id="Grupo_28" data-name="Grupo 28" transform="translate(437.498 3132.466) rotate(1)">
+      <path id="Trazado_1-2" data-name="Trazado 1" d="M19.606,19.606,90.443,0,70.665,70.665,0,90.443Z" transform="translate(63.953) rotate(45)" fill="#8000ff"/>
+      <path id="Trazado_2-2" data-name="Trazado 2" d="M19.606,19.606,90.443,0,70.665,70.665,0,90.443Z" transform="translate(63.953 72.28) rotate(45)" fill="#8000ff"/>
+      <path id="Trazado_7-2" data-name="Trazado 7" d="M7.652,7.652,35.3,0,27.58,27.58,0,35.3Z" transform="translate(63.826 84.545) rotate(45)" fill="#8000ff"/>
+      <path id="Trazado_3-2" data-name="Trazado 3" d="M0,0,63.716,35.658V108.18L0,72.217Z" transform="translate(0 63.953)" fill="#a346ff"/>
+      <path id="Trazado_20" data-name="Trazado 20" d="M0,0,63.716,35.658V108.18L0,72.217Z" transform="translate(0 63.953)" fill="#a346ff"/>
+      <path id="Trazado_4-2" data-name="Trazado 4" d="M64.19,0,0,35.711V108.34L64.19,72.324Z" transform="translate(63.716 63.793)" fill="#8b25f1"/>
+      <g id="Grupo_1-2" data-name="Grupo 1" transform="translate(38.866 60.81)">
+        <path id="Trazado_5-2" data-name="Trazado 5" d="M7.652,7.652,35.3,0,27.58,27.58,0,35.3Z" transform="translate(24.96) rotate(45)" fill="#8000ff"/>
+        <path id="Trazado_8-2" data-name="Trazado 8" d="M25.042,0,.04,13.936,0,42.286,25.042,28.228Z" transform="translate(24.879 24.898)" fill="#8b25f1"/>
+        <ellipse id="Elipse_4-2" data-name="Elipse 4" cx="17.116" cy="19.819" rx="17.116" ry="19.819" transform="translate(49.196 32.767) rotate(22)" fill="url(#linear-gradient-3)"/>
+        <path id="Trazado_6-2" data-name="Trazado 6" d="M0,0,24.923,13.944l.017,28.4L0,28.269Z" transform="translate(0 24.898)" fill="#a346ff"/>
+        <ellipse id="Elipse_7-2" data-name="Elipse 7" cx="17.116" cy="19.819" rx="17.116" ry="19.819" transform="translate(49.196 32.767) rotate(22)" fill="url(#linear-gradient-3)"/>
+        <line id="Línea_2-2" data-name="Línea 2" x2="119.814" y2="72.068" transform="translate(49.984 52.599)" fill="none" stroke="#4300ff" stroke-linecap="round" stroke-width="4" stroke-dasharray="10"/>
+      </g>
+    </g>
+    <ellipse id="Elipse_6" data-name="Elipse 6" cx="54.502" cy="26.125" rx="54.502" ry="26.125" transform="translate(259.915 2989.849)" fill="#3a04d4"/>
+    <line id="Línea_5" data-name="Línea 5" y2="120.715" transform="translate(368.468 3016.425)" fill="none"/>
+    <line id="Línea_6" data-name="Línea 6" y1="0.713" x2="151.1" transform="translate(640.526 3319.299)" fill="none" stroke="#4300ff" stroke-width="4" stroke-dasharray="10"/>
+    <line id="Línea_7" data-name="Línea 7" x2="116.037" y2="76.469" transform="translate(635.121 3316.409)" fill="none" stroke="#4300ff" stroke-width="4" stroke-dasharray="10"/>
+    <line id="Línea_8" data-name="Línea 8" x2="46.863" y2="125.272" transform="translate(640.526 3319.112)" fill="none" stroke="#4300ff" stroke-width="4" stroke-dasharray="10"/>
+    <g id="Rectángulo_20" data-name="Rectángulo 20" transform="translate(758.088 3276.321)" fill="#fff" stroke="#4300ff" stroke-width="4">
+      <rect width="81.978" height="80.176" rx="15" stroke="none"/>
+      <rect x="2" y="2" width="77.978" height="76.176" rx="13" fill="none"/>
+    </g>
+    <g id="Rectángulo_21" data-name="Rectángulo 21" transform="translate(742.448 3383.598)" fill="#fff" stroke="#4300ff" stroke-width="4">
+      <rect width="81.978" height="80.176" rx="15" stroke="none"/>
+      <rect x="2" y="2" width="77.978" height="76.176" rx="13" fill="none"/>
+    </g>
+    <g id="Rectángulo_22" data-name="Rectángulo 22" transform="translate(646.382 3442.078)" fill="#fff" stroke="#4300ff" stroke-width="4">
+      <rect width="81.978" height="80.176" rx="15" stroke="none"/>
+      <rect x="2" y="2" width="77.978" height="76.176" rx="13" fill="none"/>
+    </g>
+    <text id="HTML" transform="translate(773.845 3320.197)" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">HTML</tspan></text>
+    <text id="CSS" transform="translate(766.487 3428.112)" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">CSS</tspan></text>
+    <text id="JS" transform="translate(676.966 3486.749)" font-size="17" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">JS</tspan></text>
+  </g>
+</svg>
